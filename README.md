@@ -1,5 +1,5 @@
 # Beechat Buzz
-## _The wireless radio router for the Beechat Network_
+## _The portable radio router for the Beechat Network_
 
 ![BNSLTD](https://beechat.network/wp-content/uploads/2022/02/powered-by.png)
 
